@@ -1,3 +1,4 @@
+//to find the smallest and largest element in the given array and also to get their index//
 #include<iostream>
 #include<climits>
 using namespace std;
